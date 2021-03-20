@@ -1,0 +1,9 @@
+{
+    "id":5,
+    "fruits":["apple", "pear", "oranges"],
+    "data": {
+        "id":100,
+        "key":"value",
+        "an_object":{}
+    }
+}
